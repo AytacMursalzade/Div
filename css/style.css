@@ -1,0 +1,191 @@
+
+
+.main{
+    margin: 50px;
+    width: 552px;
+    height: 316px;
+    background: grey;
+    margin-left: 380px;
+    box-sizing: border-box;
+}
+
+.first{
+    width: 138px;
+    height: 316px;
+    background: #DFE1EE;
+    display: inline-flex;
+    box-sizing: border-box;
+    float: left;
+    position: relative;
+}
+
+.second{
+    width: 138px;
+    height: 316px;
+    background: #ABB2E6;
+    display: inline-flex;
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.asecond{
+    width: 80px;
+    height: 80px;
+    background: #FFF8AF;
+    position: absolute;
+    top: 91px;
+    left: 19px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.bsecond{
+    width: 47px;
+    height: 47px;
+    background: #F5F5F8;
+    position: absolute;
+    top: 66px;
+    left: 79px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.abc{
+    width: 138px;
+    height: 316px;
+    background: #7585DD;
+    display: inline-flex;
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.dfg{
+    width: 138px;
+    height: 316px;
+    background: #3F53D8;
+    display: inline-flex;
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.main span{
+    font-size: 12px;
+    font-family: Bahnschrift;
+}
+
+.anav{
+    width: 47px;
+    height: 47px;
+    background: #FFF8AF;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+
+}
+.bnav{
+    width: 47px;
+    height: 47px;
+    background: #F5F5F8;
+    position: absolute;
+    top: 111px;
+    left: 68px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.cnav{
+    width: 47px;
+    height: 47px;
+    background: #FFF8AF;
+    position: absolute;
+    top: 215px;
+    left: 40px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.aabc{
+    width: 90px;
+    height: 90px;
+    background: #F1F1F5;
+    position: absolute;
+    top: 156px;
+    left: 31px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.adfg{
+    width: 47px;
+    height: 47px;
+    background: #F5F5F8;
+    position: absolute;
+    top: 61px;
+    left: 50px; 
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.bdfg{
+    width: 47px;
+    height: 47px;
+    background: #F5F5F8;
+    position: absolute;
+    top: 189px;
+    left: 26px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.cdfg{
+    width: 47px;
+    height: 47px;
+    background: #FEF9B4;
+    position: absolute;
+    top: 158px;
+    left: 58px;
+    box-shadow: 3px 14px 18px -11px rgba(0,0,0,0.96);
+}
+
+.anav span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.bnav span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.cnav span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.asecond span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+    
+}
+
+.bsecond span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.aabc span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.adfg span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.bdfg span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
+
+.cdfg span{
+    font-size: 14px;
+    font-family: Bahnschrift;
+}
